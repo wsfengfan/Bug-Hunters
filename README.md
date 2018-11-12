@@ -6,19 +6,19 @@
 
 目前的部分分为以下几个部分：
 
-* [哲学]（/ 01_Philosophy.md）
-* [发现]（/ 02_Discovery.md）
-* [制图]（/ 03_Mapping.md）
-* [授权和会话]（/ 04_Authorization_and_Session.md）
+* [哲学](/01_Philosophy.md)
+* [发现](/发现.md)
+* [制图](/制图.md)
+* [授权和会话](/验证和会话.md)
 *战术模糊
-  * [XSS]（/ 05_XSS.md）
-  * [SQLi]（/ 06_SQLi.md）
-  * [文件包含]（/ 07_File_Upload.md）
-  * [CSRF]（/ 08_CSRF.md）
-* [特权，传输和逻辑]（/ 09_Privledge_Logic_Transport.md）
+  * [XSS](/战术模糊-XSS.md)
+  * [SQLi](/SQL注入.md)
+  * [文件包含](/战术模糊-FI和上传.md)
+  * [CSRF](/08_CSRF.md)
+* [特权，传输和逻辑](/特权，交通运输，逻辑.md)
 * 网页服务
-* [移动漏洞]（/ 10_Mobile.md）
-* [辅助信息]（/ 11_Auxiliary_Info.md）
+* [移动漏洞](/移动.md)
+* [辅助信息](/辅.md)
 
 该项目的目标是为漏洞猎手和网络黑客提供更多最新资源，以便在日常工作中使用。 
 
@@ -26,4 +26,4 @@
 
 ## Defcon视频
 
-[！[画面]（https://dl.dropboxusercontent.com/u/37776965/2015-10-08_14-57-26.png）（https://drive.google.com/file/d/0B15XPa08CyxhQ1J2T2tOUUJuSFk/查看？USP =共享）
+[（https://dl.dropboxusercontent.com/u/37776965/2015-10-08_14-57-26.png）（https://drive.google.com/file/d/0B15XPa08CyxhQ1J2T2tOUUJuSFk/查看？USP =共享）
